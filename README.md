@@ -1,16 +1,12 @@
-
+/*
 
 Locação -> Cliente tem que fazer o seu registro Procuro o filme e alugo.
-
 	  1      *        *     1         
 |Cliente |  ----- /Alugar\ ----- | Filme | 
 -Nome				  -Descrição
 -Cpf				  -Gênero
 -Telefone			  -Data Lançamento
 -End.                             -Valor
-
-
-
 
 - = Private
 + = publico
@@ -56,16 +52,4 @@ Persistente
 -DataLocada date;
 -------------------
 +Manter();
-
-
-
-
-
-
-
-
-
-
-
-
-
+ */
